@@ -45,7 +45,7 @@ Citizens register, undergo eligibility checks, receive confirmations, and can vi
 
    <h2>File Structure</h2>
     The code is in 3 file structure.
-    "Source.cpp" file is the main file.
-    "Header.cpp" file contains all the classes and methods definations.
+    "Source.cpp" file is the main file.<br>
+    "Header.cpp" file contains all the classes and methods definations.<br>
     "Header.h" file contains all the classes and methods declarations.
   <h2>Screenshots</h2>
