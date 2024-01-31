@@ -10,6 +10,22 @@
 
   <p>The Super Admin has CRUD capabilities for all user accounts, providing essential administrative control.</p>
 
+ <h3> Admin</h3>
+Admins procure vaccines locally and internationally, manage warehouse facilities, establish vaccination centers based on population ratios, and oversee daily vaccine distribution.
+
+<h3>Doctor</h3>
+Assigned to vaccination centers, doctors assess citizens' vital stats, including blood pressure, oxygen levels, and glucose levels, logging the information into the system.
+
+<h3>FDO (Front Desk Officer)</h3>
+FDOs manage citizen eligibility, assign counters based on availability, and oversee vaccine administration.
+
+<h3>Government Official</h3>
+Government officials access detailed reports and statistics, including vaccination percentages, city-wise data, district-wise population percentages, expenditure on vaccines, and various filters for patient analysis.
+
+<h3>Citizen</h3>
+Citizens register, undergo eligibility checks, receive confirmations, and can view their vaccination history, including administered vaccines and scheduled dates.
+
+
   <h2>Requirements</h2>
 
   <ul>
