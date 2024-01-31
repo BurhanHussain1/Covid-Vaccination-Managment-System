@@ -20,4 +20,16 @@
         <li>Every class involving a person inherits from the "PERSON" class with common attributes.</li>
   </ul>
 
+   <h2>User Sign Up/Login</h2>
+
+  <ul>
+        <li>Citizens sign up with unique details, undergo eligibility checks, and receive confirmation notifications.</li>
+        <li>Login credentials for all user types (Super Admin, Admin, Doctor, FDO, Government Official, Citizen) are unique and securely stored.</li>
+    </ul>
+
+   <h2>File Structure</h2>
+    The code is in 3 file structure.
+    "Source.cpp" file is the main file.
+    "Header.cpp" file contains all the classes and methods definations.
+    "Header.h" file contains all the classes and methods declarations.
   <h2>Screenshots</h2>
