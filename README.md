@@ -5,7 +5,7 @@
   <p>In response to the COVID-19 pandemic, this console-based C++ application facilitates the efficient distribution and administration of vaccines. The system encompasses various modules, including Super Admin, Admin, Doctor, Front Desk Officer (FDO), Government Official, and Citizen, ensuring a comprehensive and streamlined vaccination process.</p>
 
   <h2>Modules</h2>
-
+<img src="img_girl.jpg" alt="Girl in a jacket" width="500" height="600">
   <h3>Super Admin</h3>
 
   <p>The Super Admin has CRUD capabilities for all user accounts, providing essential administrative control.</p>
